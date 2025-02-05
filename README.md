@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: jdurham937@gmail.com
 
-- 💬 Ask me about Guitars, Music Performance and Production, Ham Radio, What Grinds my Gears, Motorcycles and my never ending quest to find the answer to "Why?".
+- 💬 Ask me about Guitars, Tube Amplifier design/construction/repair, Tube radio restoration, Music Performance and Production, Ham Radio, What Grinds my Gears, Motorcycles and my never ending quest to find the answer to "Why?".
 
 
 <!--
