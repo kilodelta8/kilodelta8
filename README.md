@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋
+
+- 🔭 I’m currently working on building my own OS from scratch, building my own Linux OS from scratch, developing a handful of React applications.
+
+- 🤔 I’m looking for help with A) Getting my foot in the door of the Software Engineering Industry, and B) Contributing to OSS (Linux (ubuntu-mate), and any OSS in general).
+
+- 📫 How to reach me: jdurham937@gmail.com
+
 
 <!--
 **kilodelta8/kilodelta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
