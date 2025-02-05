@@ -6,6 +6,8 @@
 
 - 📫 How to reach me: jdurham937@gmail.com
 
+- 💬 Ask me about Guitars, Music Performance and Production, Ham Radio, What Grinds my Gears, Motorcycles and my never ending quest to find the answer to "Why?".
+
 
 <!--
 **kilodelta8/kilodelta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
