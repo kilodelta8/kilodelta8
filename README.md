@@ -4,7 +4,7 @@
 
 - 🤔 I’m looking for help with A.) Getting my foot in the door of the IT/Software Engineering Industry, and B.) Contributing to OSS (Linux, and any OSS in general).
 
-- 👯 I’m looking for collaborative on building a vaccum tube library (centered around tube amps and tube radios) for KiCAD, [KiCAD Library](https://github.com/kilodelta8/kicad_vacuum_tube_library)
+- 👯 I’m looking for collaborative help on building a vaccum tube library (centered around tube amps and tube radios) for KiCAD, [KiCAD Library](https://github.com/kilodelta8/kicad_vacuum_tube_library)
 
 - 📫 How to reach me: jdurham937@gmail.com
 
