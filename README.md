@@ -6,7 +6,7 @@
 
 - 👯 I’m looking for collaborative help on building a vaccum tube library (centered around tube amps and tube radios) for KiCAD, [KiCAD Library](https://github.com/kilodelta8/kicad_vacuum_tube_library)
 
-- 📫 How to reach me: jdurham937@gmail.com
+- 📫 How to reach me: jdurham937@gmail.com   {NOTE: Please?  For the love of all things sane, DO NOT contact me with your ridiculous scam.  Be a good person and struggle like the rest of us.}
 
 - 💬 Ask me about Guitars, Tube Amplifier design/construction/repair, Tube radio restoration, Music Performance and Production, Ham Radio, What Grinds my Gears, Motorcycles and my never ending quest to find the answer to "Why?".
 
