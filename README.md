@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on building my own OS from scratch, (I've basically given up on trying to get into tech and now will make rogue machines against tech for the betterment and protection of the People's of the World), building my own Linux OS from scratch, and programming various processors and chipsets to take over the world.
+- 🔭 I’m currently working on building my own OS from scratch, (I've basically given up on trying to get into tech and now will make rogue machines against tech for the betterment and protection of the People's of the World), building my own Linux from scratch, and programming various processors and chipsets to take over the world.
 
 - 🤔 I’m looking for help with A.) Getting my foot in the door of the IT/Software Engineering Industry, and B.) Contributing to OSS (Linux, and any OSS in general).
 
