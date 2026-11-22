@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building my own OS from scratch, (I've basically given up on trying to get into tech and now will make rogue machines against tech for the betterment and protection of the People's of the World), building my own Linux from scratch, and programming various processors and chipsets to take over the world.
 
-- 🤔 I’m looking for help with A.) Getting my foot in the door of the IT/Software Engineering Industry, and B.) Contributing to OSS (Linux, and any OSS in general).
+- 🤔 I’m looking for help with ~~A.) Getting my foot in the door of the IT/Software Engineering Industry,~~ and B.) Contributing to OSS (Linux, and any OSS in general).
 
 - 👯 I’m looking for collaborative help on building a vaccum tube library (centered around tube amps and tube radios) for KiCAD, [KiCAD Library](https://github.com/kilodelta8/kicad_vacuum_tube_library)
 
