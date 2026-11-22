@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on building my own OS from scratch, finishing tech+ A+ and Network+ certification (6/14/25, Security+ and CySa+ afterwards), building my own Linux OS from scratch, developing a handful of React applications and programming various processors and chipsets to take over the world.
+- 🔭 I’m currently working on building my own OS from scratch, (I've basically given up on trying to get into tech and now will make rogue machines against tech), building my own Linux OS from scratch, and programming various processors and chipsets to take over the world.
 
 - 🤔 I’m looking for help with A.) Getting my foot in the door of the IT/Software Engineering Industry, and B.) Contributing to OSS (Linux, and any OSS in general).
 
